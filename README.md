@@ -13,3 +13,4 @@ Git and GitHub are usefuls skills!
 Become well-versed in version control!
 
 :smile:
+Participating in CS105 class.
