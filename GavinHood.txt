@@ -1,2 +1,0 @@
-Gavin Hood's text file.
-git init
