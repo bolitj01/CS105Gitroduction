@@ -1,0 +1,3 @@
+Michael Patrick
+I used to grind Magic the Gathering tournaments in Chicago.
+Having a team working on a project together through Git seems way more efficient than bouncing the files around at each different version.
