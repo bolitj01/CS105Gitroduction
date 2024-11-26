@@ -1,0 +1,3 @@
+Zackary Fulk 
+I am a Top 1000 GeoGuessr Player
+The biggest advantage of using git in my opinion is version control, which allows you to revert to previous versions for testing, reading code, trying to find where exactly an error is occuring, and much more. 
