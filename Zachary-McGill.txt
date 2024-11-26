@@ -1,0 +1,3 @@
+Name: Zachary McGill
+Fun Fact: My sister ran me over with a four-wheeler when I was younger.
+Advantage of Using Git: Allows for easier collaboration when in large groups. Additionally, it allows for more        organized and space efficient version control for projects.
