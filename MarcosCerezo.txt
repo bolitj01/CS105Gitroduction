@@ -1,0 +1,3 @@
+My name is Marcos Cerezo.
+I enjoy playing the piano and World of Warcraft.
+Git is useful for reverting your project to a previous state
