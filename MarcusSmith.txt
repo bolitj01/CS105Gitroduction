@@ -1,0 +1,4 @@
+Marcus Smith
+  * I like playing and making video games.
+  * One big advantage of using Git is being able to store previous versions of a project
+    and go back if you make a mistake (Thats why it's called version control)
