@@ -1,0 +1,3 @@
+Name: Matthew Craig
+Fun Fact: I'm a transfer student from Defiance College.
+Advantage of using Git: Being able to utilize multiple different repositories and having an ease to share across teams.
