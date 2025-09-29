@@ -1,0 +1,8 @@
+    Hamdan Tayyab
+
+-   A fun fact about me is that I like speedrunning video games! 
+
+
+-   One advantage of using git is the ability to store and share your code online with others 
+    and when working on a project in a team, it makes it very easy for others to see any 
+    changes you've made to the code & vice versa.
