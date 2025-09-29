@@ -1,0 +1,3 @@
+Name: Michael Nguyen
+Fun Fact: I wrestled varsity in high school.
+Advantage of Git: It allows collaboration without overwriting each other’s work.
