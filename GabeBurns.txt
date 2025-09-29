@@ -1,0 +1,3 @@
+-Gabriel Burns
+-I enjoy working in 3D modeling software (mostly Blender). I often 3D print what I make!
+-One advantage of using Git is the capability to create and work on branches separate from the main code.
