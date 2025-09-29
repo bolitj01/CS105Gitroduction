@@ -1,0 +1,5 @@
+Name: Ricardo Flores
+I love playing soccer
+
+One advantage of using git to text file is being able to do different commands like push and
+reverting your commit.
