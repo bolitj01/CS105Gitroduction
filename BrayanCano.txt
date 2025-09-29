@@ -1,3 +1,0 @@
-Brayan Cano
-I like playing tennis
-Git is helpful in managing various contributions to open source software

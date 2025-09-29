@@ -1,3 +1,0 @@
-Evan Parker
-I have out almost 300 hours into a project at work building a program that takes a .csv file and maps it into a nested array using PHP and MySQL
-Git is great for seeing what commits have been made and who/why/when those commits were made

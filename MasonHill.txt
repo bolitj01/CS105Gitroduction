@@ -1,2 +1,0 @@
-Fun Fact: I've had this github account since middle school
-Git allows you to have multiple developers working on different features without conflicting with each other

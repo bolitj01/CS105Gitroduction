@@ -1,5 +1,0 @@
-Suliman Alsallal
-I play soccer in my free time
-I think git is useful because it allows people to remotely work on one
-project in their own time and space. Additionally, nobody can just delete
-or rewrite something nobody else wants in the code.

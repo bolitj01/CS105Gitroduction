@@ -1,3 +1,0 @@
-Julian Carrillo
-I like to video edit
-One advantage of using git is the organization of merging files

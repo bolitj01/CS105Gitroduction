@@ -1,4 +1,0 @@
-Amber Anderson
-A fun fact about me is if I didn't do Computer Science as my major I would of done Paleontology. 
-One main advantage of using Git is that it makes it a lot easier to track changes to your code with version control, which in turn makes it 
-easier to collaborate efficiently on projects. 

@@ -1,3 +1,0 @@
-Name: Amanda Dillard
-Fun Fact: I've watched the LOTR trilogy, extended, in one sitting before.
-Advantage of Git: Distributed work means you can essentially work offline and increase productivity with each contributor having their own local version/copy of the repo.

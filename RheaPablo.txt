@@ -1,6 +1,0 @@
-Rhea Pablo
-
-My favorite mangaka is Tatsuki Fujimoto.
-Git is good for having different snapshots of 
-your code, which is helpful when you get new or
-unexpected errors.

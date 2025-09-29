@@ -1,3 +1,0 @@
-Name: Donggheon Lim
-Fun Fact: I enjoy solving chess puzzles.
-Advantage of Git: Git helps track changes and collaborate on projects efficiently.
