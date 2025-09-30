@@ -1,0 +1,6 @@
+Clayton Jones
+
+Fun fact: I have a scar on my leg from hitting it with a hachet.
+
+An advantage of using GIT is that it allows your team to work on code in sections at a time,
+combining them in the future.
