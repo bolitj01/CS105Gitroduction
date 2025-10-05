@@ -1,0 +1,3 @@
+Erin Burnett
+My favorite fruit is kumquats.
+A benefit to using Git is that it allows branches, which make it easier for programmers on a team to make changes in different parts of the code and not overwrite or mess up each other's work, as long as there is still communication involved due to merging.
