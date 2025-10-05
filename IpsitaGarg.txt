@@ -1,0 +1,4 @@
+Ipsita Garg
+I crocheted 6 elephants over the summer!
+Advantage of using Git: 
+    Each team member has thier own copy of the file, and multiple branches allows for different codes to not affect the main one if something goes wrong.
