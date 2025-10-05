@@ -1,0 +1,3 @@
+Joshua Hanson
+I recently got into tiny game dev with the Pico8 engine.
+Git is great because emailing .txt files and driving USBs around town are far worse options.
