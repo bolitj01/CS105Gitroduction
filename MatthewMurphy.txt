@@ -1,0 +1,3 @@
+Matthew Murphy
+I use Arch btw
+One advantage of using Git is being able to sync project files through a CLI
