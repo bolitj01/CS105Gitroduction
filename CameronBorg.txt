@@ -1,0 +1,3 @@
+Name: Cameron Marshall Borg
+Fun Fact: I'm typing this in a linux terminal
+Advantage: Using git helps prevent bad updates to the source code of a project by keeping track of who is pushing the updates. It also helps by letting them copy the project into their own folders to edit, preventing the main project from being needlessly modified.
