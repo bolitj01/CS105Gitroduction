@@ -1,0 +1,3 @@
+I am Adarsh Bains
+I like playing ping pong
+Git is great for version control
