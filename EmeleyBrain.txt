@@ -1,0 +1,1 @@
+Emeley Brain. I was born in Hawaii. It allows you to test code on separate branches without altering the main branch, and then you can easily integrate the finalized and successful changes once done.
