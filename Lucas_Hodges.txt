@@ -1,0 +1,5 @@
+I thought it would be fun to do a boring fact,
+but didn't, ergo making a paradoxical interesting fact
+
+Git has the simple advantage of not having to rapidly
+struggle to make changes while working together
