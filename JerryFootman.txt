@@ -1,0 +1,3 @@
+Jerry Footman
+I first started coding and working on backends in 2020! I was extremely bored during covid.
+An advantage to using git is that it will prevent you from overriding existing code you don't know about or creating files that may already exist within a specific directory you're working with.
