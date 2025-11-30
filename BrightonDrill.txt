@@ -1,0 +1,3 @@
+Brighton Drill
+I am training for a marathon
+One advantage of using Git is that people can work at the same time without disrupting each other.
