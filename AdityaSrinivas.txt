@@ -1,0 +1,3 @@
+Aditya Srinivas
+I like to play game.
+It is easy to view and share code with others using Git.
