@@ -1,0 +1,4 @@
+Name: Quang Ho
+Fun fact: Read my last name. Now you know what problem I might potentially face. 
+(don't know if that's the fun fact or not)
+Advantage of using Git: Track history to revert to previous versions.
