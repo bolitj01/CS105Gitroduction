@@ -1,3 +1,0 @@
-Keith Owens
-I like to bowl.
-Git can save changes made to allow review from the main branch over them before official intergrated.

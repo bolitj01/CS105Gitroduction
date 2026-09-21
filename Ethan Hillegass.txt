@@ -1,3 +1,0 @@
-Ethan Hillegass
-I coded my entire first CS16000 project in less than three hours.
-GIT makes it quite easy to pull from and push things into projects without horribly wrecking everything (hopefully).
