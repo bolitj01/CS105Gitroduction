@@ -1,0 +1,2 @@
+Quinn Lewis - I like to garden
+Using git creates a history of changes and allows for prototyping without compromising the functionality of the project
