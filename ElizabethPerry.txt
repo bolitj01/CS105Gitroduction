@@ -1,0 +1,3 @@
+Name: Elizabeth Perry
+Fun Fact: I have a cat named Ivy, whom I love dearly
+Advantage: Git provides version control :^)
