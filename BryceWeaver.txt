@@ -1,0 +1,1 @@
+My name is Bryce Weaver. A fun fact about me is that I am interested in cybersecurity. One advantage of Git is that it has support for non-linear workflows.
