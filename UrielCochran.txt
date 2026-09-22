@@ -1,0 +1,3 @@
+My name is Uriel Cochran
+I like to fish in my free time.
+An advantage of using Git text file is the ability to collaborate and read changes made to a project more easily.
