@@ -1,0 +1,3 @@
+Name: Kyle Hageman
+Fun fact: My family almost moved to Hawaii when i was a teenager
+Advantage of Git: One person's changes will not break the entire project
