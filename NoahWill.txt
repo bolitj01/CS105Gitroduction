@@ -1,0 +1,3 @@
+Noah Will
+I'm a twin (so me and my sister were born within 11 minutes of each other)
+Using git makes it signficantly easier to work on different features at the same time - without breaking anything on main
