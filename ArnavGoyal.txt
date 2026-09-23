@@ -1,0 +1,3 @@
+Name: Arnav Goyal   
+Fun Fact: I lived on container ship for 1 year
+Advantage of using git: It works seemlesly with IDEs and is really easy to start using for version control
