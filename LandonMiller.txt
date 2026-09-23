@@ -14,3 +14,7 @@ Git and GitHub are usefuls skills!
 Become well-versed in version control!
 
 :smile:
+
+## My Name: Landon Miller
+## Fun Fact: I run for PFW and have ran for over 10 years now competitively!
+## One advantage of using Git is that it allows software developers to open source their code and to allow other developers to help further their research more than they could have done alone.
