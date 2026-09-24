@@ -1,5 +1,0 @@
-Jackson Newland
-
-I'm working towards making an indie game!
-
-Version control can allow you to have multiple drafts so you can revert to an older version of code (for example, when things go VERY wrong!) when you need to!
