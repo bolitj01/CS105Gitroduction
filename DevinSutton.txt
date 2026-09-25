@@ -1,0 +1,9 @@
+Name: Devin Sutton
+
+Fun Fact: I have been learning programming 
+since freshman year of high school!
+
+Git Advantage: It keeps large code projects organized, 
+and it allows people to keep separate copies of the main project, 
+meaning they can each make individual contributions to merge back 
+into the main branch.
