@@ -1,0 +1,4 @@
+My name is Nadia and I'm not new to Git! I've used it in previous coding classes to keep track of projects.
+I use Git and Git Bash to consistently update my projects into GitHub repositiories.
+I also use it currently to organize all of my academic programming projects so I could use it for future reference.
+I'm also getting into Minecraft modding and plan on using Git to keep track of my codes.
