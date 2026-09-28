@@ -1,0 +1,3 @@
+Travis Davidson
+I am doing this on a linux computer.
+Git allows you to revert changes if you introduce a bug or otherwise break your software.
