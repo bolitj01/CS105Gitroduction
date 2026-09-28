@@ -1,0 +1,3 @@
+My name is Daniel Babalola.
+I am a transfer student from UIC.
+One advantage of using Git is being able to make different branches and changes in those branches without affecting the main one. This is how big tech companies can update an existing product without affecting the main version users rely on.
