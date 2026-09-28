@@ -1,0 +1,5 @@
+My name is Martin Carapia 
+
+fun fact about me is I develop websites as a freelancer on the side while studying at PFW
+
+one advantage of using git is being able to collaborate with others while having some system to control how the code is merged. 
