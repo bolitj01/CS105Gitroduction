@@ -1,0 +1,5 @@
+Name: Amit Jadhav
+
+Fun fact: I'm the AI & Perception Lead on our NASA Lunabotics team, so I'm teaching a robot to see and dig on a simulated Moon.
+
+Advantage of using Git: Git keeps a full history of every change, so you can go back to an earlier version when something breaks and see who changed what and when.
