@@ -1,0 +1,5 @@
+Name: Brandon Newman
+
+Fun Fact: I served 6 years in the Air Force
+
+Advantage: It keeps track of your changes when you committ code, so if something goes wrong, you may go back to an earlier version.
