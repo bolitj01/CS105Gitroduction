@@ -1,0 +1,3 @@
+Audrina Ortega
+I've gotten silver at a comp. for a video game I created with my high school team
+Git allows you to track changes (seeing whom changed what and when it was altered), and go back to previous versions, something a plain text file can't do.
