@@ -1,0 +1,1 @@
+Hello, My name is Idris Bostic. A fun fact about myself is that I make music, and a advantage of using Git is that it keeps a history of changes, so you can see mistakes and reflect them or if you accidentally deleted something and don't remember what it was you can refer to the log.
