@@ -1,3 +1,1 @@
-This is a text file you can edit.
-
-You can type your notes here.
+Hi, my name is Gavin Colter and I am a Life Scout. One advantage of using Git in a text file is it allows you to see who made changes and when they made them!
