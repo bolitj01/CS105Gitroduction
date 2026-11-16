@@ -1,0 +1,3 @@
+Jason Idris
+I know a little Japanese! Although I need to start practicing again.
+Git definitely makes working with other people in parallel possible, since nobody has to maintain a single version of the source code.
